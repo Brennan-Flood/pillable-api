@@ -1,1 +1,7 @@
 /target
+sqlx.db
+.env
+.env.local
+.env.development
+.env.production
+.sqlx
